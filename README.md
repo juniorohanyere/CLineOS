@@ -1,3 +1,12 @@
+# BEFORE YOU READ !
+> IMPORTANT NOTICE
+> This project has been moved to https://gihub.com/ferretbounce/FerretOS.git
+> Hence, this would be the last update here
+> Sorry for the incovenience :|
+```
+See you on the other side
+```
+
 # CLine OS
 
 `CLine OS` is an acronym for `Command Line Operating System` 
