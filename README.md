@@ -1,8 +1,12 @@
 # BEFORE YOU READ !
 > IMPORTANT NOTICE
+
 > This project has been moved to https://gihub.com/ferretbounce/FerretOS.git
-> Hence, this would be the last update here
+
+> Hence, this would be the last update here, and will be deleted by July 12, 2023
+
 > Sorry for the incovenience :|
+
 ```
 See you on the other side
 ```
